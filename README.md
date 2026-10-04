@@ -23,3 +23,9 @@ A personal collection of papers I've bookmarked for reading / reference, kept in
 | Spanner: Google's Globally-Distributed Database | [`spanner-paper.pdf`](spanner-paper.pdf) | Globally distributed DB / TrueTime |
 | The Tail at Scale | [`the tail at scale.pdf`](the%20tail%20at%20scale.pdf) | Tail latency in large-scale services |
 | TiDB: A Raft-based HTAP Database | [`TiDB paper.pdf`](TiDB%20paper.pdf) | Distributed HTAP database / Raft replication |
+=======
+
+| FlexiRaft: Flexible Quorums with Raft | [`flexi-raft.pdf`](flexi-raft.pdf) | Raft consensus / replicated logs |
+| Spanner: Google's Globally-Distributed Database | [`spanner-paper.pdf`](spanner-paper.pdf) | Globally distributed DB / TrueTime |
+| The Tail at Scale | [`the tail at scale.pdf`](the%20tail%20at%20scale.pdf) | Tail latency in large-scale services |
+| TiDB: A Raft-based HTAP Database | [`TiDB paper.pdf`](TiDB%20paper.pdf) | Distributed HTAP database / Raft replication |
