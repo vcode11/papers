@@ -23,3 +23,4 @@ A personal collection of papers I've bookmarked for reading / reference, kept in
 | The Tail at Scale | [`the tail at scale.pdf`](the%20tail%20at%20scale.pdf) | Tail latency in large-scale services |
 | TiDB: A Raft-based HTAP Database | [`TiDB paper.pdf`](TiDB%20paper.pdf) | Distributed HTAP database / Raft replication |
 | FlexiRaft: Flexible Quorums with Raft | [`flexi-raft.pdf`](flexi-raft.pdf) | Raft consensus / replicated logs |
+| Bitcask: A Log-Structured Hash Table for Fast Key/Value Data | [`bitcask-intro.pdf`](bitcask-intro.pdf) | Log-structured KV storage engine / in-memory hash index |
