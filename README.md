@@ -24,3 +24,4 @@ A personal collection of papers I've bookmarked for reading / reference, kept in
 | TiDB: A Raft-based HTAP Database | [`TiDB paper.pdf`](TiDB%20paper.pdf) | Distributed HTAP database / Raft replication |
 | FlexiRaft: Flexible Quorums with Raft | [`flexi-raft.pdf`](flexi-raft.pdf) | Raft consensus / replicated logs |
 | Bitcask: A Log-Structured Hash Table for Fast Key/Value Data | [`bitcask-intro.pdf`](bitcask-intro.pdf) | Log-structured KV storage engine / in-memory hash index |
+| B-Trees Are Back: Engineering Fast and Pageable Node Layouts (SIGMOD 2025) | [`btrees-are-back.pdf`](btrees-are-back.pdf) | B-Tree node layouts / variable-size records & hybrid memory-flash storage |
