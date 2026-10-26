@@ -25,3 +25,5 @@ A personal collection of papers I've bookmarked for reading / reference, kept in
 | FlexiRaft: Flexible Quorums with Raft | [`flexi-raft.pdf`](flexi-raft.pdf) | Raft consensus / replicated logs |
 | Bitcask: A Log-Structured Hash Table for Fast Key/Value Data | [`bitcask-intro.pdf`](bitcask-intro.pdf) | Log-structured KV storage engine / in-memory hash index |
 | B-Trees Are Back: Engineering Fast and Pageable Node Layouts (SIGMOD 2025) | [`btrees-are-back.pdf`](btrees-are-back.pdf) | B-Tree node layouts / variable-size records & hybrid memory-flash storage |
+| eXtreme Modelling in Practice (VLDB 2020) | [`extreme-modelling-in-practice.pdf`](extreme-modelling-in-practice.pdf) | TLA+ model-based trace checking & test-case generation at MongoDB |
+| Validating Traces of Distributed Programs Against TLA+ Specifications | [`validating-traces-tla.pdf`](validating-traces-tla.pdf) | Trace validation of distributed programs with TLA+ / TLC |
