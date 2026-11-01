@@ -29,3 +29,4 @@ A personal collection of papers I've bookmarked for reading / reference, kept in
 | Validating Traces of Distributed Programs Against TLA+ Specifications | [`validating-traces-tla.pdf`](validating-traces-tla.pdf) | Trace validation of distributed programs with TLA+ / TLC |
 | The Path of a Packet Through the Linux Kernel (TUM NET 2024) | [`linux-kernel-packet-path.pdf`](linux-kernel-packet-path.pdf) | Linux networking stack / packet processing path |
 | What Every Systems Programmer Should Know About Concurrency (Matt Kline, 2020) | [`concurrency-primer.pdf`](concurrency-primer.pdf) | Atomics, memory ordering & lock-free concurrency primitives |
+| What Every Programmer Should Know About Memory (Ulrich Drepper, 2007) | [`cpu-memory.pdf`](cpu-memory.pdf) | CPU caches, memory hierarchy, NUMA & memory performance optimization |
